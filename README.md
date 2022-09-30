@@ -57,6 +57,8 @@
 - [Algorithms](https://github.com/Jatin-Shihora/DSA-Essentials/tree/main/Algorithms)
 - [Data Structures](https://github.com/Jatin-Shihora/DSA-Essentials/tree/main/Data_Structures)
 
+## **Resources for Beginners**
+- https://hacktoberfest.com/participation/#beginner-resources
 
 ## **Instructions**
 
