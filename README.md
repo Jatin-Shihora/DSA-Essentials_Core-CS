@@ -28,7 +28,7 @@
     :bulb:  Writing your approach in comments for the code you give will be very much appreciated.\
     :bulb:  When naming the functions or variables use meaningfull name instead of a1,a2,a3.\
     :bulb:  Every PR would be reviewed before it gets merged.\
-    :bulb: 	Always follow issue template and PR template for submission.\
+    :bulb: 	Always follow [ISSUE_TEMPLATE](/ISSUE_TEMPLATE.md). and [PULL_REQUEST_TEMPLATE](/PULL_REQUEST_TEMPLATE.md) for submission.\
 
 
 **Language available**
@@ -39,7 +39,7 @@
 - [x] Python
 - [x] JavaScript
 - [x] C#
-- [ ] Kotlin
+- [x] Kotlin
 - [x] Go
 
 ## **Steps to contribute**
