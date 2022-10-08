@@ -64,5 +64,3 @@ int main()
 
     return 0;
 }
-
-<div class="open_grepper_editor" title="Edit & Save To Grepper"></div>
