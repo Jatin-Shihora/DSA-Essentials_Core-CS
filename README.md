@@ -6,6 +6,8 @@
 - Feel free to contribute in any way you want.
 - Please Make sure that you follow the contribution guidelines listed below.
 
+## **Show some love by leaving a :star2:**
+
 ## **Contribution Guidelines**
 
 - **Plagiarism will not be entertained**. Any PR that is found to be suspicious of plagiarised work will not be merged and will be marked as spam.
@@ -91,4 +93,4 @@ Read our [code of conduct](/CODE_OF_CONDUCT.md).
 
 [MIT License](/LICENSE).
 
-## **Show some love by leaving a :star2:**
+
