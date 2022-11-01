@@ -67,7 +67,7 @@
 ### How To Commit In CLI
 
 ```sh
-$ git clone git@github.com:your_username/DSA-Essentials.git
+$ git clone git@github.com:your_username/DSA-Essentials_Core-CS.git
 $ git checkout -b Branch_Name
 $ git add .
 $ git commit -m 'message'
