@@ -13,10 +13,6 @@
 - DataStructure/Algorithms => Inner diretory name => FileName.language_extension
 
 ## Checklist
-- [x] I was assigned for this otherwise my PR will be rejected.
 - [x] I've read the contribution guidelines.
-- [x] I've written code by myself. No Plagiarism allowed
 - [x] I've referred the correct issue number.
 - [x] I've filled up this entire template correctly.
-
-🌟 this repository and support.
